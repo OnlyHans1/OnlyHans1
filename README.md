@@ -1,5 +1,3 @@
 <div align="center">
-
-![Pain GIF](assets/pain.gif)
-
+  <img src="assets/pain.gif" alt="Pain GIF" width="100%" />
 </div>
